@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
       <div className="p-6 flex flex-col md:flex-row justify-between items-center">
         <p className="text-xs md:text-sm xl:text-md"> &copy; 2021 CallData</p>
         <ul className="flex flex-row mt-6">
-          <Link href="https://twitter.com" passHref>
+          <Link href="https://twitter.com/calldata_xyz" passHref>
             <li className="text-xs md:text-sm xl:text-md">Twitter</li>
           </Link>
           <Link href="#" passHref>
