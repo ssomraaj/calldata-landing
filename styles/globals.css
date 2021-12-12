@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca:300,400,500,600,700&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #121216;
+}
+
+p {
+  color: #6a768c;
+}
+
+ul,
+li {
+  color: #6a768c;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+.logo {
+  font-size: large;
+}
+
+.violet {
+  color: #5f15ed;
+}
+
+.black {
+  color: #121216;
+}
+
+.button-green {
+  background-color: #5f15ed;
+  color: white;
+}
+
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background-color: #f2f5f7a0;
+}
+
+.form-width {
+  width: 300px;
+}
+
+@media screen and (max-width: 800px) {
+  .form-width {
+    width: inherit;
+  }
+}
+
+.internal-shadow {
+  box-shadow: 0px 3px 6px #00000029;
+}
+
+.red {
+  color: #ff4500;
+}
