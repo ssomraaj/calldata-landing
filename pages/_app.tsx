@@ -8,7 +8,7 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>CallData - All In One Dapp Engagement Platform</title>
+        <title>CallData - Decentralized Announcement Network</title>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta
           content="CallData - All In One Dapp Engagement Platform"

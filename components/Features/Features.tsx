@@ -13,7 +13,7 @@ const Features: React.FC = () => {
           <div className="col-span-7 xl:col-span-10">
             <h2 className="font-bold text-xl">Decentralized & Trustless</h2>
             <p className="xl:text-xl pt-4">
-              Marketing communications & interactions happen onchain
+              Communications & interactions happen through on-chain.
             </p>
           </div>
         </div>
@@ -22,9 +22,10 @@ const Features: React.FC = () => {
             <Image alt="blockchain-icon" height={63} src={Icon1} width={63} />
           </div>
           <div className="col-span-7  xl:col-span-10">
-            <h2 className="font-bold text-xl">Inter-Protocol Communication</h2>
+            <h2 className="font-bold text-xl">Validation of Information</h2>
             <p className="xl:text-xl pt-4">
-              Enabling interaction between POP3, IMAP & blockchain protocols
+              The announcements are made only by the wallet owned by the
+              project.
             </p>
           </div>
         </div>
