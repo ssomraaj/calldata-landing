@@ -11,17 +11,14 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
         <title>CallData - Decentralized Announcement Network</title>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta
-          content="CallData - All In One Dapp Engagement Platform"
+          content="CallData - Decentralized Announcement Network"
           name="title"
         />
         <meta
-          content="A Web3 marketing solutions for dapps to engage with their users directly to their ENS or public wallet address. Interactions that are necessary for scaling dapps"
+          content="A Web3 communication platform for dapps to engage with their users directly using the blockchain. Reduce the risk of exposing users to Web2 hacks."
           name="description"
         />
-        <meta
-          content="calldata, marketing platform, dapp marketing"
-          name="keywords"
-        />
+        <meta content="calldata, DAN, decentralized" name="keywords" />
         <meta content="index, follow" name="robots" />
         <meta content="text/html; charset=utf-8" httpEquiv="Content-Type" />
         <meta content="English" name="language" />
@@ -103,13 +100,13 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
         <meta content="#ffffff" name="theme-color" />
 
         <meta
-          content="CallData - All In One Dapp Engagement Platform"
+          content="CallData - Decentralized Announcement Network"
           property="og:title"
         />
         <meta content="calldata.xyz" property="og:site_name" />
         <meta content="https://calldata.xyz" property="og:url" />
         <meta
-          content="Web3 marketing solutions for dapps to engage with their users directly to their ENS or public wallet address. Interactions that are necessary for scaling dapps"
+          content="A Web3 communication platform for dapps to engage with their users directly using the blockchain. Reduce the risk of exposing users to Web2 hacks."
           property="og:description"
         />
         <meta content="product" property="og:type" />
